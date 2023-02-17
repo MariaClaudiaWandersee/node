@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "início do aprendizado com node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaClaudiaWandersee/node.git"
+  },
+  "author": "Maria Claudia Wandersee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaClaudiaWandersee/node/issues"
+  },
+  "homepage": "https://github.com/MariaClaudiaWandersee/node#readme"
+}
